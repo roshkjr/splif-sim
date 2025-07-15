@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "splif-sim"
+  site-url: "https://roshkjr.github.io/splif-sim"
+  description: "Interaction fingerprints for ligand binding mode identification"
+  repo-branch: main
+  repo-url: "https://github.com/roshkjr/splif-sim"
